@@ -1,6 +1,10 @@
-# 💬 Multi-Client Chat Server (Python)
+# 💬 Multi-Client Chat Server
 
 A simple **real-time chat server** built using Python sockets and threading. This server allows multiple clients to connect simultaneously and exchange messages in real time.
+
+<p align="center">
+  <img src="p1.jpg" alt="Picture" width="300" height="300"/>
+</p>
 
 ---
 
